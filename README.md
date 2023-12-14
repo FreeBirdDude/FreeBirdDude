@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FreeBirdDude
 - 👀 I’m interested in coding in general
-- 🌱 I’m currently learning C, c++ and Python
+- 🌱 I’m currently learning C, C++ and Python
 - 💞️ I’m looking to collaborate on backend coding
 
 For now I wil use GitHub to store some code projects for learning. 
